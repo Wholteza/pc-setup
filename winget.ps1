@@ -26,4 +26,20 @@ winget install ijhack.qtpass
 winget install Telegram.TelegramDesktop.Beta
 # follow https://github.com/drduh/YubiKey-Guide/blob/master/README.md#windows for yubikey setup
 
-winget install CoreyButler.NVMforWindows 7zip.7zip  OpenWhisperSystems.Signal  PortSwigger.BurpSuite.Community  Dell Peripheral Manager  Docker.DockerDesktop Helm.Helm Kubernetes.kubectl  Microsoft.WindowsTerminal MongoDB.Compass.Full Postman.Postman Spotify.Spotify Toggl.TogglTrack  Microsoft.VisualStudio.2022.Professional Caprine.Caprine  Microsoft.PowerShell Yubico.Authenticator JetBrains.ReSharper
+winget install winget install CoreyButler.NVMforWindows 
+winget install 7zip.7zip  
+winget install OpenWhisperSystems.Signal 
+winget install PortSwigger.BurpSuite.Community  
+winget install Dell Peripheral Manager  
+winget install Docker.DockerDesktop 
+winget install Helm.Helm Kubernetes.kubectl  
+winget install Microsoft.WindowsTerminal 
+winget install MongoDB.Compass.Full 
+winget install Postman.Postman 
+winget install Spotify.Spotify 
+winget install Toggl.TogglTrack  
+winget install Microsoft.VisualStudio.2022.Professional 
+winget install Caprine.Caprine  
+winget install Microsoft.PowerShell 
+winget install Yubico.Authenticator 
+winget install JetBrains.ReSharper
